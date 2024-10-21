@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Familjen Grotesk", sans-serif;
+}
+
+.conteiner-fluid h1 {
+  padding-top: 190px;
+  font-size: 4.5rem;
+  font-weight: 500;
+  color: #131820;
+}
+
+.conteiner-fluid h2 {
+  padding-top: 30px;
+  font-size: 18px;
+  font-weight: 100;
+  color: #6f7277;
+}
+
+.splash-cards card {
+  width: 14px;
+}
+
+.card {
+  margin-top: 60px;
+}
+
+.cards .card-title {
+  color: #6f7277;
+  font-weight: 200;
+}
+
+.cards .card {
+  width: 14rem;
+}
+
+.cards .card-subtitle {
+  color: #131820;
+  font-weight: 200;
+  font-size: 1.5rem;
+  padding-top: 5px;
+}
+
+.cards .card-text {
+  padding-top: 100px;
+  font-size: 18px;
+}
+
+.partners-slider {
+  padding-top: 150px;
+}
+
+.partners-slider h2 {
+  color: #eef1f2;
+  font-size: 1.8rem;
+  padding-bottom: 80px;
+}
+
+.display,
+.partners-logos {
+  background-color: #131820;
+  margin: 0 5% 0 5%;
+  text-align: center;
+}
+
+.display {
+  padding: 178px 0;
+}
+
+.display img {
+  padding: 0 40px;
+}
